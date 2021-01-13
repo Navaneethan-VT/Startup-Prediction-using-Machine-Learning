@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# # Multiple Linear Regression
-
-# ## Importing the libraries
-
-# In[ ]:
 
 
 import numpy as np
